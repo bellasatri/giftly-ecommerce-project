@@ -4,6 +4,10 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Jost:wght@400;500&display=swap");
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root{
   --wine:#5a0f26;
   --deep:#35081a;
